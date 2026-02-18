@@ -2,6 +2,8 @@
 
 Objective: To analyze a B2B sales dataset to identify high-value sectors, diagnose bottlenecks in the sales funnel, and provide data-backed recommendations to increase total revenue and sales velocity.
 
+**Code Source**
+https://archive.ics.uci.edu/dataset/352/online%2Bretail?
 
 **Executive Summary**
 
