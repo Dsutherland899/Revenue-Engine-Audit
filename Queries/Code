@@ -67,14 +67,7 @@ group by sp.product
 
 select COUNT(deal_stage) from sales_pipeline -- total number in deal stages are 8,800
 
-
-GTX Pro has the shortest average days to close with GTX 500 being the slowerest, interesting that GTX pro is also the best selling product. Can see if there is any correlation between the days to close and it’’s revenue. GTX 500 has also generated almost the lead amount of revenue
-
-
-
-
-
-
+-- Takeaway: GTX Pro has the shortest average days to close with GTX 500 being the slowerest, interesting that GTX pro is also the best selling product. Can see if there is any correlation between the days to close and it’’s revenue. GTX 500 has also generated almost the lead amount of revenue
 
 
 – - Weighted Forecast: Use a CASE statement to multiply the close_value by a probability (e.g., Prospecting = 10%, Engaging = 30%, Won = 100%) to see the "Expected Revenue" currently in the pipeline.
