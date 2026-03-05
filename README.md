@@ -22,6 +22,8 @@ Insights and recommendations are provided on the following key areas:
 
 **Data Structure**
 
+The database is made up of 4 different tables shown below:
+
 <img width="1024" height="744" alt="image" src="https://github.com/user-attachments/assets/5287f536-6047-4746-b603-678ec0bf8518" />
 
 
