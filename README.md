@@ -51,9 +51,11 @@ When looking at the top sales reps there are some interesting results we can pul
 <img width="1195" height="261" alt="image" src="https://github.com/user-attachments/assets/56b59396-ec8b-4d03-98c0-e07af412e684" />
 
 
-* Top selling reps either have the highest win rate % or they have a very large pipeline with the highest amount of opportunties with all of the top 6 best performing reps having GTXPro bringing in the highest total amount of revenue but a mixture in each sales rep's best median selling product.
+* Top selling reps either have the highest win rate % or they have a very large pipeline with the highest amount of opportunties with all of the top 6 best performing reps having GTXPro bringing in the highest total amount of revenue but a mixture in each sales rep's best median selling product. Combined revenue of the top 6 performers is $3.42M (33.9% of total company revenue), showing heavy reliance on these 6 reps. 
 * Darcel Schlecht very clearly generated the highest amount of revenue comapared to all over reps with a Total Deal Value of $1,153,214, selling into medical did well for him as this was his highest performing industry.
-* For all top performers (apart from Vicki Laflamme) January is the worst performing month which is typically with most sales trends as consumers start to ramp up into the new year, most consisently have more than 8 won opportunities per month after this drought with peaks in
+* For all top performers (apart from Vicki Laflamme) January is the worst performing month which is typical with most sales trends as consumers start to ramp up into the new year, most consisently have more than 8 won opportunities per month after this drought with peaks in April and July.
+* As expected the average sales cycle is shorted in comparison to the average to worst performing sales reps, 
+* all 3 of the most sold industries company wide are also the ones that the highest performing sales reps sold into. 
 
 A critical assessment of the sales funnel reveals a structural bottleneck that currently caps the organization’s growth potential. While the sales team demonstrates high proficiency in initial outreach and lead generation—evidenced by the volume of deals entering the Prospecting phase—a significant logjam exists within the Engaging stage. The disparity between the volume of active engagements and final conversions indicates a breakdown in mid-funnel transition logic.
 
