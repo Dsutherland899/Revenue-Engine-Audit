@@ -1,6 +1,6 @@
 # Revenue-Engine-Audit: Optimizing Sales Performance and Pipeline Health
 
-**Project Background**
+h1 **Project Background**
 This dataset contains information about customer interactions, sales activities, and opportunities from a fictional company's CRM (Customer Relationship Management) system. The dataset contains the folllowing features listed below:
 
 * Customer information (demographics, firmographics, etc.)
@@ -20,7 +20,7 @@ Insights and recommendations are provided on the following key areas:
 
 **Sales Representative Outcomes**: Evaulated Sales Rep performance and how they trended throughout the year 
 
-**Data Structure**
+h2 **Data Structure**
 
 The database is made up of 4 different tables shown below:
 
