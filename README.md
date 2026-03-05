@@ -43,7 +43,17 @@ Furthermore, a comparative analysis of monthly performance reveals that these to
 <img width="1266" height="704" alt="image" src="https://github.com/user-attachments/assets/108f75fc-ca10-488f-a469-b113ab5ec52a" />
 
 
-**Pipeline Dynamics and Operational Bottlenecks**
+# Insights into Data
+
+**Sales Reps Performance**
+When looking at the top sales reps there are some interesting results we can pull:
+
+<img width="1195" height="261" alt="image" src="https://github.com/user-attachments/assets/56b59396-ec8b-4d03-98c0-e07af412e684" />
+
+
+* Top selling reps either have the highest win rate % or they have a very large pipeline with the highest amount of opportunties with all of the top 6 best performing reps having GTXPro bringing in the highest total amount of revenue but a mixture in each sales rep's best median selling product.
+* Darcel Schlecht very clearly generated the highest amount of revenue comapared to all over reps with a Total Deal Value of $1,153,214, selling into medical did well for him as this was his highest performing industry.
+* For all top performers (apart from Vicki Laflamme) January is the worst performing month which is typically with most sales trends as consumers start to ramp up into the new year, most consisently have more than 8 won opportunities per month after this drought with peaks in
 
 A critical assessment of the sales funnel reveals a structural bottleneck that currently caps the organization’s growth potential. While the sales team demonstrates high proficiency in initial outreach and lead generation—evidenced by the volume of deals entering the Prospecting phase—a significant logjam exists within the Engaging stage. The disparity between the volume of active engagements and final conversions indicates a breakdown in mid-funnel transition logic.
 
