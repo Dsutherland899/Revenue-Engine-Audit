@@ -46,6 +46,7 @@ Furthermore, a comparative analysis of monthly performance reveals that these to
 # Insights into Data
 
 **Sales Reps Performance**
+
 When looking at the top sales reps there are some interesting results we can pull:
 
 <img width="1195" height="261" alt="image" src="https://github.com/user-attachments/assets/56b59396-ec8b-4d03-98c0-e07af412e684" />
