@@ -13,8 +13,11 @@ This dataset contains information about customer interactions, sales activities,
 Insights and recommendations are provided on the following key areas:
 
 **Sales Trend Analysis**: Sales trends over the past year are evaluated, focusing on Sales Velocity, Revenue and Average Sales Cycle (within Days)
+
 **Pipeline Conversion and Identification**: Established and visualised sales pipeline to identify bottlenecks and areas of strength
+
 **Product Level Performance**: Analysis of performance by product for both total and median revenue
+
 **Sales Representative Outcomes**: Evaulated Sales Rep performance and how they trended throughout the year 
 
 **Code Source**
