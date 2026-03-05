@@ -20,8 +20,12 @@ Insights and recommendations are provided on the following key areas:
 
 **Sales Representative Outcomes**: Evaulated Sales Rep performance and how they trended throughout the year 
 
-**Code Source**
-https://archive.ics.uci.edu/dataset/352/online%2Bretail?
+**Data Structure**
+
+<img width="1024" height="744" alt="image" src="https://github.com/user-attachments/assets/5287f536-6047-4746-b603-678ec0bf8518" />
+
+
+
 
 **Executive Summary**
 
