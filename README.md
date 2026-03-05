@@ -1,6 +1,20 @@
 # Revenue-Engine-Audit: Optimizing Sales Performance and Pipeline Health
 
-Objective: To analyze a B2B sales dataset to identify high-value sectors, diagnose bottlenecks in the sales funnel, and provide data-backed recommendations to increase total revenue and sales velocity.
+**Project Background**
+This dataset contains information about customer interactions, sales activities, and opportunities from a fictional company's CRM (Customer Relationship Management) system. The dataset contains the folllowing features listed below:
+
+* Customer information (demographics, firmographics, etc.)
+* Sales activities
+* Opportunity data (deal size, stage, probability, etc.)
+* Product/service information
+* Sales team and performance metrics
+* Time-series data (daily/weekly/monthly sales, etc.)
+
+Insights and recommendations are provided on the following key areas:
+**Sales Trend Analysis**: Sales trends over the past year are evaluated, focusing on Sales Velocity, Revenue and Average Sales Cycle (within Days)
+**Pipeline Conversion and Identification**: Established and visualised sales pipeline to identify bottlenecks and areas of strength
+**Product Level Performance**: Analysis of performance by product for both total and median revenue
+**Sales Representative Outcomes**: Evaulated Sales Rep performance and how they trended throughout the year 
 
 **Code Source**
 https://archive.ics.uci.edu/dataset/352/online%2Bretail?
