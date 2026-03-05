@@ -27,17 +27,21 @@ The database is made up of 4 different tables shown below:
 <img width="1024" height="744" alt="image" src="https://github.com/user-attachments/assets/5287f536-6047-4746-b603-678ec0bf8518" />
 
 
+# **Executive Summary**
 
+**Overview of Findings**
 
-**Executive Summary**
+The sectors which poseess the highest amount of revenue for the company are Retail, Technology, and Medical. A significant commonality among these sectors is the dominance of the GTX Pro, which consistently records the highest sales volume. The concentration of revenue in these verticals can be attributed to high opportunity density, suggesting either a profound product-market fit driven by industry-specific demands or a highly effective, targeted prospecting strategy by the sales force.
 
-This audit provides a comprehensive evaluation of TechGear Solutions’ fiscal year performance, focusing on revenue distribution, pipeline health, and operational efficiency. By leveraging SQL-driven data extraction and Power BI visualization, the analysis identifies high-value growth sectors and critical friction points within the sales funnel. The objective is to provide actionable intelligence to optimize resource allocation and accelerate sales velocity.
+Analysis of sales pipeline shows significant bottleneck between the stages 'Prospecting' to 'Engaging'.
 
-**Sector Performance and Market Demand**
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/1f00f822-2d2a-407b-aabe-9726864c647a" />
 
-This analysis identifies Retail, Technology, and Medical as the organization’s primary revenue pillars. A significant commonality among these sectors is the dominance of the GTX Pro, which consistently records the highest sales volume. The concentration of revenue in these verticals can be attributed to high opportunity density, suggesting either a profound product-market fit driven by industry-specific demands or a highly effective, targeted prospecting strategy by the sales force.
 
 Furthermore, a comparative analysis of monthly performance reveals that these top-tier sectors are characterized by revenue stability. While lower-performing sectors, such as Employment, exhibit volatile "peaks and troughs," the Retail and Technology sectors maintain a consistent volume of closed-won opportunities. This steadiness indicates that sector success is predicated on both high lead volume and predictable monthly conversion rates.
+
+<img width="1266" height="704" alt="image" src="https://github.com/user-attachments/assets/108f75fc-ca10-488f-a469-b113ab5ec52a" />
+
 
 **Pipeline Dynamics and Operational Bottlenecks**
 
