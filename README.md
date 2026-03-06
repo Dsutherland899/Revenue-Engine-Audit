@@ -54,9 +54,15 @@ When looking at the top sales reps there are some interesting results we can pul
 
 * Top selling reps either have the highest win rate % or they have a very large pipeline with the highest amount of opportunties with all of the top 6 best performing reps having GTXPro bringing in the highest total amount of revenue but a mixture in each sales rep's best median selling product. Combined revenue of the top 6 performers is $3.42M (33.9% of total company revenue), showing heavy reliance on these 6 reps. 
 * Darcel Schlecht very clearly generated the highest amount of revenue comapared to all over reps with a Total Deal Value of $1,153,214, selling into medical did well for him as this was his highest performing industry.
-* For all top performers (apart from Vicki Laflamme) January is the worst performing month which is typical with most sales trends as consumers start to ramp up into the new year, most consisently have more than 8 won opportunities per month after this drought with peaks in April and July.
+* For all top performers (apart from Vicki Laflamme) January is the worst performing month which is typical with most sales trends as consumers start to ramp up into the new year, most sales reps consistently have more than 8 won opportunities per month after this drought with peaks in April and July.
 * As expected the average sales cycle is shorted in comparison to the average to worst performing sales reps, 
-* all 3 of the most sold industries company wide are also the ones that the highest performing sales reps sold into. 
+* All 3 of the most sold industries company wide are also the ones that the highest performing sales reps sold into.
+
+**Product Performance**
+
+* The GTX Pro Generated the highest amount of total revenue at $3,510,578 with the GTK 500 and MG Special performing the worst with $400,612 and $43,768 total revenue earned respectivley. However, the GTK 500 achieved the highest median revenue out of all products with $24,899. This is largely due to it being the highest priced product ($26,768) and having a lowest amount of opportunties compared to other products which explains the product having the highest Average Deal Size of $26.71K. This could be an indication that there could be some price sensitivity amongst consumers. 
+* On sales velocity the GTXPro has the highest Sales Velocity sitting at $76.77K a day with can be attributed to the its high number of opportunities (1.48K) compared to the rest of the product suite and it's win rate being the highest compared to other products (49.26%) alongside having the lowest average sales cycle of 45.73 days.
+* GTK500 has an exteremly low win rate of 37.5% far below the prduct average of 48.16%, this could further support the price sensitivity assumption mentioned earlier amongst consumers. 
 
 A critical assessment of the sales funnel reveals a structural bottleneck that currently caps the organization’s growth potential. While the sales team demonstrates high proficiency in initial outreach and lead generation—evidenced by the volume of deals entering the Prospecting phase—a significant logjam exists within the Engaging stage. The disparity between the volume of active engagements and final conversions indicates a breakdown in mid-funnel transition logic.
 
