@@ -63,7 +63,8 @@ When looking at the top sales reps there are some interesting results we can pul
 * The GTX Pro Generated the highest amount of total revenue at $3,510,578 with the GTK 500 and MG Special performing the worst with $400,612 and $43,768 total revenue earned respectivley. However, the GTK 500 achieved the highest median revenue out of all products with $24,899. This is largely due to it being the highest priced product ($26,768) and having a lowest amount of opportunties compared to other products which explains the product having the highest Average Deal Size of $26.71K. This could be an indication that there could be some price sensitivity amongst consumers. 
 * On sales velocity the GTXPro has the highest Sales Velocity sitting at $76.77K a day with can be attributed to the its high number of opportunities (1.48K) compared to the rest of the product suite and it's win rate being the highest compared to other products (49.26%) alongside having the lowest average sales cycle of 45.73 days.
 * GTK500 has an exteremly low win rate of 37.5% far below the prduct average of 48.16%, this could further support the price sensitivity assumption mentioned earlier amongst consumers.
-
+* GTX Plus Pro has great performance considering it has the second lowest opportunities amongst the product suite (968), it has the second highest total and median revenue alongside a relatively short average sales cycle despite it being the second most expensive product.
+  
 **Pipeline Analysis**
 
 <img width="571" height="265" alt="image" src="https://github.com/user-attachments/assets/9a14999f-1140-431c-be7b-713914f635e1" />
@@ -71,25 +72,17 @@ When looking at the top sales reps there are some interesting results we can pul
 
 * Large disparity between 'Prospecting' stage and 'Engaging' stage, indicating that their could be a bottleneck issue between these two stages preventing them from being moved into Won or Lost. 
 * Within the 'Lost' stage GTX Basic is the most common to be within this stage with 521 opportunities
-* Without figures on what the revenue of these lost opportunities are it is hard to estbalish what lost out revenue figures would look like
+* Without figures on what the revenue of these lost opportunities are it is hard to establish what lost out revenue figures would look like.
 
-A critical assessment of the sales funnel reveals a structural bottleneck that currently caps the organization’s growth potential. While the sales team demonstrates high proficiency in initial outreach and lead generation—evidenced by the volume of deals entering the Prospecting phase—a significant logjam exists within the Engaging stage. The disparity between the volume of active engagements and final conversions indicates a breakdown in mid-funnel transition logic.
+  **Sector Review**
+  * The reatil sector generates the most revenue for the company with $1.87M contributed, however average deal size within this sector ($2.34K) is smaller compared to Softwarem Finance and Entertainment ($2.40K, $2.54K and $2.65K)
+  * Marketing sectors sees the highest winrate with 59.94%, this can be attributed to the GTX Pro and the GTX Plus Pro success within this channel, especially for GTX Plus Pro as depsite having the second least deal opportunities within this sector it generated the second highest total and median revenue with $259,016 and $4,984.5 respectivley. 
 
-This friction point is the primary driver behind the current 47.99-day Average Sales Cycle. Deals that remain stagnant in the "Engaging" phase artificially inflate the sales cycle duration and suppress the overall Sales Velocity. Consequently, the daily revenue throughput is limited by the team's inability to efficiently move prospects from initial conversation to a finalized agreement.
+# Strategic Recommendations for Revenue Growth
 
-**Strategic Recommendations for Revenue Growth**
+1. From the understanding we have of the product performance, the pricing strategy of the GTK500 should be undereview due to it's extrememly low win rate and long duration with it's sales cycle. Further investigation into price sensitivity can be conducted through techniques such as linear regression analysis, to understand the effects of the products price on the number of opportunities and/or average sales cycle.
 
-1. Accelerate Sales Velocity through Pipeline Standardization
-The current Sales Velocity of £208.49K per day is heavily constrained by the stagnation of deals within the "Engaging" stage. With 1.59K opportunities currently in this phase—more than triple the volume of the "Prospecting" stage—there is a clear conversion bottleneck.
-
-Action: I recommend implementing a 72-Hour Engagement Protocol. Data suggests that high-velocity products like the GTX Pro close 8 days faster than the fleet average. By mandating a specific follow-up cadence and clear exit criteria for the Engaging stage, the firm can reduce the average sales cycle from 47.99 days to 42 days, which would theoretically increase daily sales velocity by 12.5% without increasing lead volume.
-
-2. Optimize Total Revenue via Sector-Specific Resource Reallocation
-While the Retail sector currently leads in total revenue volume, the Entertainment and Finance sectors demonstrate a higher Average Deal Size and a higher frequency of High-Value Wins. Retail provides the baseline, but Entertainment provides the margin.
-
-Action: Shift propotion of regional marketing and prospecting budget from lower-performing, high-volatility sectors (such as Employment and Services) toward Entertainment and Finance. Focusing on these "high-density" sectors targets a higher median deal value, aiming to raise the Average Deal Size from £2.36K toward the £3K mark, directly impacting the $10.01M revenue ceiling.
+2. While the Retail sector currently leads in total revenue volume, the Entertainment and Finance sectors demonstrate a higher Average Deal Size and a higher frequency of High-Value Wins. Retail provides the baseline, but Entertainment provides the margin. Shift propotion of regional marketing and prospecting budget from lower-performing, high-volatility sectors (such as Employment and Services) toward Entertainment and Finance. Focusing on these "high-density" sectors targets a higher median deal value, aiming to raise the Average Deal Size from £2.36K toward the £3K mark, directly impacting the $10.01M revenue ceiling.
 
 3. Strategic Product Rationalization
-The GTK 500 represents a significant resource leak in the current sales engine. It possesses the longest sales cycle (53.72 days) and the lowest sales volume (40 units), effectively tying up sales representatives for longer periods with a lower probability of closing.
-
-Action: De-prioritize the GTK 500 in favor of the GTX Pro and GTX Plus Pro models, which account for over £6M of the total revenue. By incentivizing the sales force to lead with high-velocity products, the organization can "clear" the pipeline faster, allowing reps to handle a higher volume of opportunities per quarter, thereby compounding total annual revenue.
+The GTK 500 represents a significant resource leak in the current sales engine. It possesses the longest sales cycle (53.72 days) and the lowest sales volume (40 units), effectively tying up sales representatives for longer periods with a lower probability of closing. De-prioritize the GTK 500 in favor of the GTX Pro and GTX Plus Pro models, which account for over £6M of the total revenue. By incentivizing the sales force to lead with high-velocity products, the organization can "clear" the pipeline faster, allowing reps to handle a higher volume of opportunities per quarter, thereby compounding total annual revenue.
