@@ -75,8 +75,8 @@ When looking at the top sales reps there are some interesting results we can pul
 * Without figures on what the revenue of these lost opportunities are it is hard to establish what lost out revenue figures would look like.
 
   **Sector Review**
-  * The reatil sector generates the most revenue for the company with $1.87M contributed, however average deal size within this sector ($2.34K) is smaller compared to Softwarem Finance and Entertainment ($2.40K, $2.54K and $2.65K)
-  * Marketing sectors sees the highest winrate with 59.94%, this can be attributed to the GTX Pro and the GTX Plus Pro success within this channel, especially for GTX Plus Pro as depsite having the second least deal opportunities within this sector it generated the second highest total and median revenue with $259,016 and $4,984.5 respectivley. 
+* The reatil sector generates the most revenue for the company with $1.87M contributed, however average deal size within this sector ($2.34K) is smaller compared to Softwarem Finance and Entertainment ($2.40K, $2.54K and $2.65K)
+* Marketing sectors sees the highest winrate with 59.94%, this can be attributed to the GTX Pro and the GTX Plus Pro success within this channel, especially for GTX Plus Pro as depsite having the second least deal opportunities within this sector it generated the second highest total and median revenue with $259,016 and $4,984.5 respectivley. 
 
 # Strategic Recommendations for Revenue Growth
 
