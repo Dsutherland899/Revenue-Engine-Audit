@@ -22,7 +22,7 @@ Insights and recommendations are provided on the following key areas:
 
 SQL Queries that were used to explore this data can be found [here](https://github.com/Dsutherland899/Revenue-Engine-Audit/blob/main/Queries/SQL%20Revenue%20Engine%20Queries.sql).
 
-A PDF of the full dashboard created in PowerBi can be found here.
+A PDF of the full dashboard created in PowerBi can be found [here](https://github.com/Dsutherland899/Revenue-Engine-Audit/blob/main/CRM%20Sales%20Dashboard.pdf).
 
 # **Data Structure**
 
