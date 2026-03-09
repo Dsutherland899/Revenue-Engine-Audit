@@ -20,6 +20,10 @@ Insights and recommendations are provided on the following key areas:
 
 **Sales Representative Outcomes**: Evaulated Sales Rep performance and how they trended throughout the year 
 
+SQL Queries that were used to explore this data can be found [here](https://github.com/Dsutherland899/Revenue-Engine-Audit/blob/main/Queries/SQL%20Revenue%20Engine%20Queries.sql).
+
+A PDF of the full dashboard created in PowerBi can be found here.
+
 # **Data Structure**
 
 The database is made up of 4 different tables shown below:
