@@ -58,7 +58,7 @@ When looking at the top sales reps there are some interesting results we can pul
 * Top selling reps either have the highest win rate % or they have a very large pipeline with the highest amount of opportunities with all of the top 6 best performing reps having GTXPro bringing in the highest total amount of revenue but a mixture in each sales rep's best median selling product. Combined revenue of the top 6 performers is $3.42M (33.9% of total company revenue), showing heavy reliance on these 6 reps. 
 * Darcel Schlecht very clearly generated the highest amount of revenue compared to all over reps with a Total Deal Value of $1,153,214, selling into medical did well for him as this was his highest performing industry.
 * For all top performers (apart from Vicki Laflamme) January is the worst performing month which is typical with most sales trends as consumers start to ramp up into the new year, most sales reps consistently have more than 8 won opportunities per month after this drought with peaks in April and July.
-* As expected the average sales cycle is shorted in comparison to the average to worst performing sales reps, 
+* As expected the average sales cycle is shorted in comparison to the average to worst performing sales reps.
 * All 3 of the most sold industries company wide are also the ones that the highest performing sales reps sold into.
 
 **Product Performance**
@@ -76,11 +76,11 @@ When looking at the top sales reps there are some interesting results we can pul
 
 
 * Large disparity between 'Prospecting' stage and 'Engaging' stage, indicating that their could be a bottleneck issue between these two stages preventing them from being moved into Won or Lost. 
-* Within the 'Lost' stage GTX Basic is the most common to be within this stage with 521 opportunities
+* Within the 'Lost' stage GTX Basic is the most common to be within this stage with 521 opportunities.
 * Without figures on what the revenue of these lost opportunities are it is hard to establish what lost out revenue figures would look like.
 
   **Sector Review**
-* The retail sector generates the most revenue for the company with $1.87M contributed, however average deal size within this sector ($2.34K) is smaller compared to Software Finance and Entertainment ($2.40K, $2.54K and $2.65K)
+* The retail sector generates the most revenue for the company with $1.87M contributed, however average deal size within this sector ($2.34K) is smaller compared to Software Finance and Entertainment ($2.40K, $2.54K and $2.65K).
 * Marketing sectors sees the highest winrate with 59.94%, this can be attributed to the GTX Pro and the GTX Plus Pro success within this channel, especially for GTX Plus Pro as despite having the second least deal opportunities within this sector it generated the second highest total and median revenue with $259,016 and $4,984.5 respectively. 
 
 # Strategic Recommendations for Revenue Growth
